@@ -1,0 +1,15 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightgreen;
+}
+.div{
+    font-size: 40px;
+    font-weight: bold;
+    color: darkblue;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-family: Arial, sans-serif;
+}
